@@ -1,0 +1,7 @@
+{
+  "name": "BMU Pilot System",
+  "description": "A digital Beach Management Unit system for coastal fisheries governance, membership, and catch tracking with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
